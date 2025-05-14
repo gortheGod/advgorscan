@@ -10,7 +10,7 @@
 - Verbose output showing what's happening in the background.
 
 ## Installation:
-- Clone this repository: `git clone https://github.com/your-username/advgorscan.git`
+- Clone this repository: `git clone https://github.com/gortheGod/advgorscan`
 - Install dependencies: `pip install -r requirements.txt`
 
 ## Usage:
